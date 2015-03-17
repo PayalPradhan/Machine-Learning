@@ -1,0 +1,9 @@
+<div style="float:right; width: 170;height:100px; margin:10px;background-color:White;">
+						      <div style="float: right; width: 150px; height: 40px; margin: 10px; background-color:#CC99CC; border-radius: 5px;">
+							        <a href="Index.html" style="color:Snow;font-size: 0.8em;text-decoration: none;">Logout</a>
+						      </div>
+						      <br>
+						      <div style="float: right; width: 150px; height: 40px; margin: 10px; background-color:#CC99CC; border-radius: 5px;">
+							        <a href="Settings.html" style="color:Snow;font-size: 0.8em;text-decoration: none;">Settings</a>
+						      </div>
+						   </div>
